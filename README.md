@@ -1,2 +1,2 @@
 # proyects
-proyects / scrpts
+Scripts, proyects and more
